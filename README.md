@@ -15,7 +15,7 @@ Make a machine, make an interaction with a machine, or do something completely c
 
 ## Reminders
 
-Finish by November 6th at 8AM Central Time. You can find this time in your local timezone here: https://encrypted.google.com/search?hl=en&q=8%20am%20central%20time
+Finish by November 6th at 8AM Central Time (Today... Guess I won't be participating :c). You can find this time in your local timezone here: https://encrypted.google.com/search?hl=en&q=8%20am%20central%20time
 
 ## Rules
 
